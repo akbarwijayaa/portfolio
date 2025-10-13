@@ -11,6 +11,9 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Akbar Wijaya - Portfolio",
   description: "4 years of AI/ML engineering experience now building secure, innovative smart contracts for DeFi. Specialized in Solidity, Rust, and gas-optimized protocols.",
+  icons: {
+    icon: "/favicon.png",
+  }
 };
 
 export default function RootLayout({
