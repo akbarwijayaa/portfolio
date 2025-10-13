@@ -3,7 +3,7 @@ export default function Contact() {
     <section id="contact" className="py-20 px-6 border-t border-gray-900">
       <div className="max-w-4xl mx-auto">
         <div className="max-w-2xl mx-auto text-center">
-          <h2 className="text-3xl font-medium mb-4 text-white">Let's Connect!</h2>
+          <h2 className="text-3xl font-medium mb-4 text-white">Let&apos;s Connect!</h2>
           <p className="text-sm text-gray-400 mb-12">
             Open to contract work, consulting opportunities, or discussions
             about interesting DeFi projects.
